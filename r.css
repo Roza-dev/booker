@@ -1,0 +1,11 @@
+#first{
+	height: 500px;
+	width:600px;
+	background-image: url("");
+	background-size: cover;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top:5px; 
+	margin-top: 20px;
+	border-radius: 5px;
+}
